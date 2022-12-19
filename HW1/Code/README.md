@@ -182,7 +182,7 @@
     show_history(history) 
     ```
 
-    ![Training Result]()
+    ![Training Result](https://github.com/tsungru/NCHU-HW/blob/main/HW1/Figure/output_curve.png?raw=true)
 
     - 如上圖所示，雖然在測試集上有良好的表現，但在驗證集上的效果並不佳，並且驗證集的 Loss 持續上升。由此可得出，此模型產生了 Overfitting 的現象。
 

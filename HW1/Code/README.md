@@ -182,7 +182,7 @@
     show_history(history) 
     ```
 
-    ![Training Result](C:/Users/Owner/OneDrive/Desktop/homework/HW1/Figure/output.png)
+    ![Training Result](https://github.com/tsungru/NCHU-HW/blob/main/HW1/Figure/output.png?raw=true)
 
     - 如上圖所示，雖然在測試集上有良好的表現，但在驗證集上的效果並不佳，並且驗證集的 Loss 持續上升。由此可得出，此模型產生了 Overfitting 的現象。
 
@@ -224,7 +224,7 @@
     print('The \"F1\" of CNN model is {0:.5f}'.format(f1)) 
     ```
 
-    ![Classification Metrics](C:/Users/Owner/OneDrive/Desktop/homework/HW1/Figure/metric.png)
+    ![Classification Metrics](https://github.com/tsungru/NCHU-HW/blob/main/HW1/Figure/metric.png?raw=true)
 
 ---
 
@@ -255,7 +255,7 @@
         print("| {:<20}| {:<20}| {:<20}".format(r_ans, p_ans, ans))
     ```
 
-    ![Compare Result](C:/Users/Owner/OneDrive/Desktop/homework/HW1/Figure/compare.png)    
+    ![Compare Result](https://github.com/tsungru/NCHU-HW/blob/main/HW1/Figure/compare.png?raw=true)    
 
 ---
 

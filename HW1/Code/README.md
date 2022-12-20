@@ -18,7 +18,7 @@
 
 2. ***建立所需之相關參數***
 
-    - `base_dir = 'C:/Users/Owner/OneDrive//Desktop/homework/HW1/Data Set/flowers/'` : 檔案位置
+    - `base_dir = '../Data Set/flowers/'` : 檔案位置
 
     - `cat_lst = ['daisy', 'dandelion', 'rose', 'sunflower', 'tulip']` : 所有 Label 種類
 
